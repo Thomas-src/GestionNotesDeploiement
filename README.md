@@ -56,8 +56,6 @@ GestionNotes-Depot\
 
 ## 3. Publier une nouvelle version
 
-## 3. Publier une nouvelle version
-
 Dans Visual Studio :
 
 1. **Changer le numéro de version.** Ouvrir `GestionNotes/GestionNotes.csproj` et modifier les trois lignes (par exemple pour la 2.2.32) :
